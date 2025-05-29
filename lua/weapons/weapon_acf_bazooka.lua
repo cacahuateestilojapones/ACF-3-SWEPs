@@ -47,7 +47,7 @@ SWEP.ACFProjLen				= 18.5
 SWEP.Tracer                 = 0
 
 -- I hate how inaccessible this is
-SWEP.ACFHEATDetAngle		= 45
+SWEP.ACFHEATDetAngle		= 75
 SWEP.ACFHEATStandoff		= 0.01
 SWEP.ACFHEATLinerMass		= 2.2
 SWEP.ACFHEATPropMass		= 3.38
